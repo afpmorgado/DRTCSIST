@@ -1,4 +1,4 @@
-# DRTCSIST
+# DRTC-SIST
 Repository for the source code of the project developed for the course "Distributed Real-Time Control Systems", 2024-2025, Instituto Superior Técnico. 
 
 Authors: Diogo Nunes, André Morgado
